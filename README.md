@@ -1,4 +1,3 @@
 # LPIA-ocean-CESM
-Instructions for downloading CESM simulation data.
-
-URL to download data: https://ucdavis.box.com/s/jo6kzq0d1uxqowd40p2a5vfmoywh1a63
+CESM simulation data produced for Macarewich & Poulsen (in revision at Paleoceanography & Paleoclimatology) are available at:
+https://doi.org/10.5281/zenodo.6774491
